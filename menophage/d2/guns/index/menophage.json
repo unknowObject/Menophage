@@ -1,0 +1,8 @@
+{
+  "name": "d2.gun.menophage.name",
+  "display": "d2:menophage_display",
+  "data": "d2:menophage_data",
+  "tooltip": "d2.gun.menophage.desc",
+  "type": "mg",
+  "sort": 10
+}

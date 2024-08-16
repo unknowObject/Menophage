@@ -1,0 +1,37 @@
+{
+  // 弹药堆模型
+  "model": "d2:ammo/pr_geo",
+  // 弹药堆模型贴图
+  "texture": "d2:ammo/uv/pr",
+  // 背包 2D 贴图
+  "slot": "d2:ammo/slot/pr",
+  // 弹壳模型和贴图
+  "shell": {
+    "model": "d2:shell/pr_shell",
+    "texture": "d2:shell/pr_shell"
+  },
+  "entity": {
+    "model": "d2:ammo_entity/pr_entity_geo",
+    "texture": "d2:ammo_entity/pr_entity"
+  },
+  //缩放
+  "transform": {
+    "scale": {
+      "thirdperson": [
+        0.2,
+        0.2,
+        0.2
+      ],
+      "ground": [
+        0.3,
+        0.3,
+        0.3
+      ],
+      "fixed": [
+        0.6,
+        0.6,
+        0.6
+      ]
+    }
+  }
+}
