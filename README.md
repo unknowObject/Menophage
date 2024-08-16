@@ -7,7 +7,7 @@ This gun pack is for "Timeless and Classic Guns: Zero".
 
 添加了“菌噬异星体”（对我没有打错字），来自命运2的异域机枪“异星噬菌体”。由M249升级获得。发射造成高额爆炸伤害并点燃敌人的热毒子弹。不支持安装配件。
 
-Add "Menophage"(yes, Menophage), an exotic machine gun "Xenophage" from Destiny 2. Aquire by upgrade M249. Fires high-powered explosive ammunition which can also ignite your enemies. Not support for attachments.
+Add "Menophage"(yes, Menophage), inspired by exotic machine gun "Xenophage" from Destiny 2. Aquire by upgrade M249. Fires high-powered explosive ammunition which can also ignite your enemies. Not support for attachments.
 
 使用说明：
 1. 打开".minecraft"目录，打开路径“config/tacz/custom”。如果你使用了版本隔离（即不同版本对应文件保存在“versions”文件夹中），则选择想要安装的版本，打开路径“config/tacz/custom”。
