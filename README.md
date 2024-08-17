@@ -1,5 +1,9 @@
-# Menophage
-A append pack for Minecraft mod: TacZ. Add "Menophage", a weapon inspired  by "Xenophage" in Destiny2.
+<p align="center">
+<img width="300" src = "https://github.com/user-attachments/assets/6808a63e-da20-4d70-9d95-42b0c1d42aeb"  alt = "title">
+</p>
+
+<hr>
+<p align="center">TacZ: Menophage</p>
 
 该扩展包只适用于"Timeless and Classic Guns: Zero"。
 
